@@ -14,3 +14,10 @@ For more detail, please visit:
 * [project 1 (Wat's version)](https://bitbucket.org/cs222_projects/project1_Oliver)
 
 * [project 1 (Xiang's version)](https://bitbucket.org/cs222_projects/project1_Xiangyan)
+
+
+### Team Members ###
+
+* [LIM Wat](https://github.com/CharKwayTeow)
+
+* [Xiang Yan](https://github.com/yx1232287)

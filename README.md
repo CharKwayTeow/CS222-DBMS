@@ -11,9 +11,9 @@ For more detail, please visit:
 
 * [project 2](https://bitbucket.org/cs222_projects/project2)
 
-* [project 1 (Wat's version)](https://bitbucket.org/cs222_projects/project1_Oliver)
+* [project 1 (Wat's version)](https://bitbucket.org/cs222_projects/project1_oliver)
 
-* [project 1 (Xiang's version)](https://bitbucket.org/cs222_projects/project1_Xiangyan)
+* [project 1 (Xiang's version)](https://bitbucket.org/cs222_projects/project1_xiangyan)
 
 
 ### Team Members ###
